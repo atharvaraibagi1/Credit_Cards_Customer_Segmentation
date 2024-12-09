@@ -20,26 +20,7 @@ The dataset contains various attributes about credit card customers, such as dem
 - **Avg_Open_To_Buy**: The average available credit.
 
 ### **Data Exploration and Cleaning**
-The data was loaded and thoroughly explored to understand its structure and identify missing values. Here's the code used to explore the data:
-
-```python
-def view_data(df):
-    print("First 5 rows of the data:")
-    display(df.head())
-    
-    print("Shape of the data:")
-    display(df.shape)
-    
-    print("Statistical description of the data")
-    display(df.describe())
-    
-    print("Information of the data")
-    display(df.info())
-    
-    print("Null Values in the data")
-    display(df.isna().sum())
-```
-
+The data was loaded and thoroughly explored to understand its structure and identify missing values. 
 ---
 
 ## **Feature Engineering**
