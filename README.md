@@ -80,25 +80,25 @@ The optimal number of clusters was determined using the elbow plot method, which
 ### **Clusters Identified**
 After performing K-Means clustering, the dataset was divided into three distinct clusters based on customer behavior:
 
-- **Cluster 1: Balanced Usage Customers**
+- **Cluster 1: High Credit Utilization Customers**
   - **Key Traits**:
     - High revolving balance-to-credit limit (0.618906).
-    - Moderate spending ratio (0.319330).
+    - High spending ratio (0.319330).
     - Low remaining credit (0.031564).
   - **Demographic Insights**: Middle-aged customers with low-to-mid incomes. They manage their spending responsibly and depend heavily on credit limits.
   - **Behavioral Summary**: Frequent card users who maintain a high revolving balance.
   - **Possible Needs**: Debt consolidation tools, structured repayment plans, and incentives for reducing credit dependency.
 
-- **Cluster 2: Conservative Users**
+- **Cluster 2: Balanced Usage Customers**
   - **Key Traits**:
-    - Low revolving balance-to-credit limit (0.117687).
+    - Moderate revolving balance-to-credit limit (0.117687).
     - Moderate spending ratio (0.177295).
     - Moderate remaining credit (0.169929).
   - **Demographic Insights**: Middle-aged or younger customers with moderate incomes. They prioritize financial stability and use credit cards conservatively.
   - **Behavioral Summary**: Low-risk users with high financial discipline.
   - **Possible Needs**: Education on credit benefits, loyalty rewards programs, and upsell opportunities for financial products.
 
-- **Cluster 0: High Credit Utilization Customers**
+- **Cluster 0: Conservative Users**
   - **Key Traits**:
     - Very low revolving balance-to-credit limit (0.044101).
     - Very low spending ratio (0.036409).
