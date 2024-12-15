@@ -80,32 +80,29 @@ The optimal number of clusters was determined using the elbow plot method, which
 ### **Clusters Identified**
 After performing K-Means clustering, the dataset was divided into three distinct clusters based on customer behavior:
 
-- **Cluster 1: High Credit Utilization Customers**
+- **High Credit Utilization Customers**
   - **Key Traits**:
     - High revolving balance-to-credit limit (0.618906).
     - High spending ratio (0.319330).
     - Low remaining credit (0.031564).
-  - **Demographic Insights**: Middle-aged customers with low-to-mid incomes. They manage their spending responsibly and depend heavily on credit limits.
+  - **Demographic Insights**: Middle-aged customers with mid-to-high incomes. They manage their spending responsibly and depend heavily on credit limits.
   - **Behavioral Summary**: Frequent card users who maintain a high revolving balance.
-  - **Possible Needs**: Debt consolidation tools, structured repayment plans, and incentives for reducing credit dependency.
 
-- **Cluster 2: Balanced Usage Customers**
+- **Balanced Usage Customers**
   - **Key Traits**:
     - Moderate revolving balance-to-credit limit (0.117687).
     - Moderate spending ratio (0.177295).
     - Moderate remaining credit (0.169929).
-  - **Demographic Insights**: Middle-aged or younger customers with moderate incomes. They prioritize financial stability and use credit cards conservatively.
+  - **Demographic Insights**: Middle-aged or younger customers with moderate incomes. They prioritize financial stability and use credit cards cautiously.
   - **Behavioral Summary**: Low-risk users with high financial discipline.
-  - **Possible Needs**: Education on credit benefits, loyalty rewards programs, and upsell opportunities for financial products.
 
-- **Cluster 0: Conservative Users**
+- **Conservative Users**
   - **Key Traits**:
     - Very low revolving balance-to-credit limit (0.044101).
     - Very low spending ratio (0.036409).
     - Extremely high remaining credit (0.738300).
-  - **Demographic Insights**: Younger or mid-aged individuals with good incomes. They have high borrowing capacity but prefer conservative spending.
+  - **Demographic Insights**: Younger or mid-aged individuals with low-to-mid incomes. They have high borrowing capacity but prefer conservative spending.
   - **Behavioral Summary**: They tend to pay off balances in full, avoiding interest accumulation.
-  - **Possible Needs**: Premium card benefits, investment advisory services, and encouragement to increase usage with rewards.
 
 ---
 
