@@ -145,17 +145,17 @@ By binning customers based on age and income, additional customer segments were 
 
 ## **Actionable Recommendations for Each Cluster**
 
-### **Cluster 0: High Credit Utilization Customers**
+### **High Credit Utilization Customers**
 - **Premium Benefits Programs**: Offer high-value perks like travel rewards or exclusive events.
 - **Investment and Savings Plans**: Provide investment advisory services and competitive interest savings.
 - **Encourage Controlled Spending**: Offer cashback or discounts in selected categories to increase card usage.
 
-### **Cluster 1: Balanced Usage Customers**
+### **Balanced Usage Customers**
 - **Debt Management Programs**: Provide personalized repayment plans or interest rate reductions.
 - **Spending Control Incentives**: Offer cashback or rewards for staying within credit limits.
 - **Financial Education**: Promote responsible credit usage and improving credit health.
 
-### **Cluster 2: Conservative Users**
+### **Conservative Users**
 - **Upsell Financial Products**: Introduce co-branded cards and upgrade opportunities with better benefits.
 - **Credit Utilization Education**: Educate about the benefits of credit card usage for building credit scores.
 - **Loyalty Programs**: Implement rewards for moderate, disciplined usage, like dining or fuel discounts.
