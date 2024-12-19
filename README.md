@@ -107,21 +107,49 @@ The optimal number of clusters was determined using the elbow plot method, which
 - **Age Group:** Aged predominantly between 40 and 60, they are often managing household responsibilities or transitioning towards retirement.  
 - **Credit Utilization:** Their credit usage is high, reflecting a heavy dependence on available credit and potential financial challenges.  
 
-Let me know if further refinements are needed!
+Here's a **table comparison** of the three clusters for easier readability:
 
-## **Actionable Recommendations for Each Cluster**
+| **Characteristic**            | **Cluster 1: Moderate Credit Limit, Low Utilization**                      | **Cluster 2: High-Income, High Credit Limit, Responsible Spenders**      | **Cluster 3: Low Credit Limit, High Utilization**                         |
+|--------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| **Credit Limit**               | Moderate, suitable for modest spending.                                    | High, aligned with strong financial standing.                             | Low, reflecting constrained financial circumstances.                        |
+| **Number of Transactions**     | Regular but moderate usage.                                                | Moderate usage with balanced spending habits.                             | Frequent transactions, indicating high card reliance.                       |
+| **Transaction Amount**         | Small-scale purchases, reflecting financial restraint.                     | Higher-value purchases, indicating preference for premium items.          | Smaller transactions focused on essentials.                                 |
+| **Revolving Balance**          | Low, showing controlled and disciplined credit usage.                      | Low, indicative of responsible credit management.                         | High, signaling significant reliance on credit.                             |
+| **Income Category**            | Low to mid-income, with financial prudence.                                | Very high income, showcasing stability and capability.                    | Very low income, often facing financial stress.                             |
+| **Age Group**                  | Predominantly aged 40-60, in later career or pre-retirement.                | Primarily aged 40-50, in prime earning years.                             | Mainly aged 40-60, managing responsibilities or nearing retirement.         |
+| **Credit Utilization (%)**     | Minimal, reflecting conservative and efficient usage of credit.            | Very low, despite having significant credit capacity.                     | High, highlighting heavy dependence on available credit.                    |
 
-### **Moderate Credit Users**
-- Encourage increased credit card usage through cashback offers or dining rewards.
-- Introduce financial wellness programs to promote responsible spending habits.
+This structured table provides a clear side-by-side comparison of the clusters for better understanding.
 
-### **Premium Low Utilization Customers**
-- Offer exclusive benefits, such as luxury rewards or premium experiences.
-- Introduce high-value co-branded cards with additional perks to incentivize higher spending.
+Here are actionable recommendations for each cluster based on the insights derived:
 
-### **High Utilization Frequent Users**
-- Provide debt management support with lower interest repayment plans.
-- Educate on credit utilization's impact on credit scores and offer small credit line increments.
+### **Cluster 1: Moderate Credit Limit, Low Utilization Users with Low to Mid-Income**
+
+| **Recommendation**                           | **Explanation**                                                                                  |
+|---------------------------------------------|--------------------------------------------------------------------------------------------------|
+| **Encourage Credit Limit Increase**         | Since the users have a moderate credit limit but low utilization, offering them an option to increase their credit limit may encourage higher spending and improve their credit score. |
+| **Introduce Rewards for Consistent Usage**  | Incentivize regular spending by introducing rewards programs that motivate increased transactions without pushing them into over-utilization. |
+| **Promote Financial Education**             | Educate on the benefits of increasing credit utilization responsibly. As these users show restraint, they might benefit from understanding how higher utilization can positively affect their credit score. |
+| **Cross-sell Low-Interest Loans or Products** | These users may appreciate the option to access personal loans or credit products with favorable interest rates, which would align with their modest financial behavior. |
+
+### **Cluster 2: High-Income, High Credit Limit, Responsible Spenders**
+
+| **Recommendation**                           | **Explanation**                                                                                  |
+|---------------------------------------------|--------------------------------------------------------------------------------------------------|
+| **Promote Premium Credit Products**         | Given their high income and low credit utilization, these users are ideal candidates for premium products like exclusive credit cards with benefits like cashbacks, travel perks, or VIP access. |
+| **Offer Tailored Investment Products**      | Since they are financially stable, offer them investment options (like wealth management or retirement planning) to help grow their wealth. |
+| **Introduce Exclusive Financial Tools**     | Provide tools or advisory services to optimize their wealth, tax benefits, or portfolio, which would appeal to their established financial expertise. |
+| **Target with High-Value Offers**           | Engage them with exclusive offers, rewards, and experiences, leveraging their high spending potential without overburdening them with frequent offers. |
+
+### **Cluster 3: Low Credit Limit, High Utilization, Frequent Users with Very Low Income**
+
+| **Recommendation**                           | **Explanation**                                                                                  |
+|---------------------------------------------|--------------------------------------------------------------------------------------------------|
+| **Offer Credit Limit Increase with Caution** | Gradually increase the credit limit with guidance on how to use it responsibly, reducing the risk of users falling into a debt trap. |
+| **Provide Debt Consolidation Options**      | Introduce debt consolidation services to help them manage high revolving balances more effectively, offering lower interest rates or manageable repayment terms. |
+| **Promote Financial Counseling or Support**  | Offer free financial counseling to help users better manage their finances, especially with regard to budgeting and avoiding debt accumulation. |
+| **Introduce Low-Cost, Essential Credit Products** | Provide access to low-cost, essential credit products or microloans with favorable terms, helping them meet their financial needs without overburdening them. |
+
 
 ---
 
