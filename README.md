@@ -109,7 +109,7 @@ The optimal number of clusters was determined using the elbow plot method, which
 
 Here's a **table comparison** of the three clusters for easier readability:
 
-| **Characteristic**            | **Cluster 1: Moderate Credit Limit, Low Utilization**                      | **Cluster 2: High-Income, High Credit Limit, Responsible Spenders**      | **Cluster 3: Low Credit Limit, High Utilization**                         |
+| **Characteristic**            | **1: Moderate Credit Limit, Low Utilization**                      | **2: High-Income, High Credit Limit, Responsible Spenders**      | **3: Low Credit Limit, High Utilization**                         |
 |--------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | **Credit Limit**               | Moderate, suitable for modest spending.                                    | High, aligned with strong financial standing.                             | Low, reflecting constrained financial circumstances.                        |
 | **Number of Transactions**     | Regular but moderate usage.                                                | Moderate usage with balanced spending habits.                             | Frequent transactions, indicating high card reliance.                       |
@@ -123,7 +123,7 @@ This structured table provides a clear side-by-side comparison of the clusters f
 
 Here are actionable recommendations for each cluster based on the insights derived:
 
-### **Cluster 1: Moderate Credit Limit, Low Utilization Users with Low to Mid-Income**
+### **1: Moderate Credit Limit, Low Utilization Users with Low to Mid-Income**
 
 | **Recommendation**                           | **Explanation**                                                                                  |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
@@ -132,7 +132,7 @@ Here are actionable recommendations for each cluster based on the insights deriv
 | **Promote Financial Education**             | Educate on the benefits of increasing credit utilization responsibly. As these users show restraint, they might benefit from understanding how higher utilization can positively affect their credit score. |
 | **Cross-sell Low-Interest Loans or Products** | These users may appreciate the option to access personal loans or credit products with favorable interest rates, which would align with their modest financial behavior. |
 
-### **Cluster 2: High-Income, High Credit Limit, Responsible Spenders**
+### **2: High-Income, High Credit Limit, Responsible Spenders**
 
 | **Recommendation**                           | **Explanation**                                                                                  |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
@@ -141,7 +141,7 @@ Here are actionable recommendations for each cluster based on the insights deriv
 | **Introduce Exclusive Financial Tools**     | Provide tools or advisory services to optimize their wealth, tax benefits, or portfolio, which would appeal to their established financial expertise. |
 | **Target with High-Value Offers**           | Engage them with exclusive offers, rewards, and experiences, leveraging their high spending potential without overburdening them with frequent offers. |
 
-### **Cluster 3: Low Credit Limit, High Utilization, Frequent Users with Very Low Income**
+### **3: Low Credit Limit, High Utilization, Frequent Users with Very Low Income**
 
 | **Recommendation**                           | **Explanation**                                                                                  |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------|
